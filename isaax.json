@@ -1,0 +1,13 @@
+{
+  "name": "chirimen",
+  "version": "",
+  "description": "",
+  "main": "_gc/srv/srv.js",
+  "author": "",
+  "license": "",
+  "language":"javascript",
+  "scripts": {
+	"start": "node ./_gc/srv/srv.js"
+  },
+  "dependency": null
+}
