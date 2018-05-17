@@ -7,7 +7,7 @@
   "license": "",
   "language":"javascript",
   "scripts": {
-	"start": "node ./_gc/srv/srv.js"
+	"start": "cd ./_gc/srv && node srv.js"
   },
   "dependency": null
 }
